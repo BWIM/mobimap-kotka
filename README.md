@@ -1,4 +1,4 @@
-# mobimap-kotka
+# MobiMap Kotka
 
 Welcome! This site gives an overview over the mobility of the city Kotka in southern Finland in September 2024.
 
@@ -34,6 +34,6 @@ There are three maps generated. Just click on the link, and they will open up in
 
 This was an example map generated in a very simple way. More maps are available at the [mobi.mapr](https://mapr.mobi) soon!
 
-The Maps were created by [Pfennig (Marc Le Large)](https://www.linkedin.com/in/pfennig42/).
+The Maps were created by [Pfennig (Marc Le Large)](https://pfennig.tech/).
 
 For more information, follow the [Baden-Württemberg Institute for sustainable mobility](https://bw-im.de).
