@@ -24,7 +24,7 @@ To view the source, go to the root of this project: https://github.com/BWIM/mobi
 
 ## Maps
 
-There are three maps generated. Just click on the link, and they will open up in a new tab. Feel free to download them and use them, as described in the License.
+There are three maps generated. Just click on the link, and they will open up in a new tab. Feel free to download them and use them according to the [GNU General Public License 3.0](https://github.com/BWIM/mobimap-kotka/blob/main/LICENSE).
 
 - [Map for pedestrians](https://bwim.github.io/mobimap-kotka/map_walk_smol.html)
 - [Map for cyclists](https://bwim.github.io/mobimap-kotka/map_bike_smol.html)
